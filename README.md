@@ -1,6 +1,6 @@
 # Survey Result App
 
-I created web app in Streamlit by using some survey results data in excel.
+I created  a web app in Streamlit by using  the survey results data in excel.
 
 
 
