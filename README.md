@@ -1,7 +1,6 @@
-# Deneme
+# Survey Result App
 
-## Survey Result App
-survey result app
+I created web app in Streamlit by using some survey results data in excel.
 
 
 
